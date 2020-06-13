@@ -1,0 +1,20 @@
+body {
+  background: #000; }
+
+.button {
+  color: #000;
+  background: #fff; }
+
+.wrapper {
+  margin: 0 auto;
+  width: 933px; }
+  .wrapper-son h1 {
+    background: #fff; }
+  .wrapper-son--children {
+    background-image: url(587951d32173a2d66082ba842af6cff3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; }
+    .wrapper-son--children h2 {
+      color: #000; }
+

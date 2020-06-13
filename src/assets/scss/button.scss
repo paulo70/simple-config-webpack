@@ -1,0 +1,26 @@
+.button{
+  color: $color-common;
+  background: $color-bg-common;
+}
+
+.wrapper{
+  margin: 0 auto;
+  width: 933px;
+
+  &-son{
+    h1{
+      background: $color-bg-common;
+    }
+
+    &--children{
+      background-image: url('../images/mc5.jpg');
+      background-position: center;
+      background-repeat: no-repeat;
+      height: 100vh;
+
+      h2{
+        color: #000;
+      }
+    }
+  }
+}
