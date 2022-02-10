@@ -19,7 +19,7 @@
     "cross-env": "5.1.5",
     "optimize-css-assets-webpack-plugin": "4.0.1",
     "uglifyjs-webpack-plugin": "1.2.5",
-    "node-sass": "4.9.0",
+    "node-sass": "7.0.0",
     "sass-loader": "7.0.1",
     "webpack": "4.8.1",
     "webpack-cli": "2.1.3"
